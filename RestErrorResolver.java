@@ -7,7 +7,7 @@ import org.springframework.web.context.request.ServletWebRequest;
  * to render a Rest error representation to the response body.
  */
 public interface RestErrorResolver {
-xxx
+xxxo
 remote
     /**
      * Returns a {@code RestError} instance to render as the response body based on the given exception.
