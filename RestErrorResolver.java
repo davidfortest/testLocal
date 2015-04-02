@@ -8,6 +8,7 @@ import org.springframework.web.context.request.ServletWebRequest;
  */
 public interface RestErrorResolver {
 xxx
+remote
     /**
      * Returns a {@code RestError} instance to render as the response body based on the given exception.
      *
