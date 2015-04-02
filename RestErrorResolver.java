@@ -10,6 +10,7 @@ public interface RestErrorResolver {
 xxxo
 remote
 remote2
+remote3
     /**
      * Returns a {@code RestError} instance to render as the response body based on the given exception.
      *
