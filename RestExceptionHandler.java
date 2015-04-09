@@ -1,6 +1,6 @@
 package com.xiangshang.api.web.rest.exception.handler;
 xxx
-local
+remote
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
